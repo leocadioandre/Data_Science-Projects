@@ -25,9 +25,9 @@ Nos links abaixo contem dos meus projetos em uma ordem empirica.
 
 * Análise Explorádoria e Manipulação de dados:
 
-  *Pré Processamento de dados: https://bit.ly/2U7Yz5x
-  *Exploratory Data Analisys (EDA): https://bit.ly/36YXRwG
-  Fazendo análise exploratória em meu Spotify: https://bit.ly/2Axz46T
+  * Pré Processamento de dados: https://bit.ly/2U7Yz5x
+  * Exploratory Data Analisys (EDA): https://bit.ly/36YXRwG
+  * Fazendo análise exploratória em meu Spotify: https://bit.ly/2Axz46T
 
  * Projetos que utilizaram Machine Learning:
 
