@@ -21,9 +21,29 @@ Este Portfólio tem como objetivo:
 
 
 ## Projetos:
-Nos links abaixo contem meus projetos em uma ordem empirica.
+Nos links abaixo contem dos meus projetos em uma ordem empirica.
 
 * Análise Explorádoria e Manipulação de dados:
+
+- Pré Processamento de dados: https://bit.ly/2U7Yz5x
+- Exploratory Data Analisys (EDA): https://bit.ly/36YXRwG
+- Fazendo análise exploratória em meu Spotify: https://bit.ly/2Axz46T
+
+* Projetos que utilizaram Machine Learning:
+
+- Detecção de Câncer de Mama: https://bit.ly/3eLSALv
+- Prevendo ações da Petrobras PETR4: https://bit.ly/2BnrmfM
+- Competição de machine learning Titanic no Kaggle: https://bit.ly/36XtKWf
+- Utilizando a técnica de Stacking: https://bit.ly/2Y1sayR
+- Utilizando Pipelines para automatização: https://bit.ly/2UaIjAS
+- Validando modelos por meio da curva AUC: https://bit.ly/304BBQz
+- Fazendo deploy de um modelo de machine learning: https://bit.ly/3dwrpEf
+
+* Visualização de Dados:
+
+- Materiais para visualização em Python: https://bit.ly/2Xu8NiD
+- Plotly: https://bit.ly/3dvzJnR
+- Montando um simples Dashboard em Python: https://bit.ly/2U6XsDk
 
 
 
