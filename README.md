@@ -29,7 +29,7 @@ Nos links abaixo contem dos meus projetos em uma ordem empirica.
   * Exploratory Data Analisys (EDA): https://bit.ly/36YXRwG
   * Fazendo análise exploratória em meu Spotify: https://bit.ly/2Axz46T
 
- * Projetos que utilizaram Machine Learning:
+* Projetos que utilizaram Machine Learning:
 
   * Detecção de Câncer de Mama: https://bit.ly/3eLSALv
   * Prevendo ações da Petrobras PETR4: https://bit.ly/2BnrmfM
