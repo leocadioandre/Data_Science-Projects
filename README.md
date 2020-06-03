@@ -21,7 +21,12 @@ Este Portfólio tem como objetivo:
 
 
 ## Projetos:
-Nos links abaixo comtem meus projetos em uma ordem empirica.
+Nos links abaixo contem meus projetos em uma ordem empirica.
+
+* Análise Explorádoria e Manipulação de dados:
+
+
+
 
 
 
