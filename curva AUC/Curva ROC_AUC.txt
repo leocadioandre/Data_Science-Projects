@@ -1,0 +1,24 @@
+
+O que é AUC ?
+
+ROC é uma curva de probabilidade. Ela é criada traçando a taxa verdadeiro-positivo contra a taxa de falsos-positivos. 
+Ou seja, numero de vezes que o classificador acertou a predição conta o número de vezes que o classificador errou a predição.
+
+O AUC representa o grau ou medida de separabilidade. Quanto maior o AUC, melhor o modelo está em prever 0s como 0s e 1s como 1s. 
+Por exemplo, quanto maior a AUC, melhor o modelo está em distinguir entre pacientes com doença e pacientes sem doença
+
+
+O ROC possui dois parâmetros:
+
+Taxa de verdadeiro positivo (True Positive Rate), que é dado por true positives / (true positives + false negatives). 
+Essa taxa também é conhecida como sensibilidade, recordação ou probabilidade de detecção (sensitivity, recall ou probability of detection)
+
+Taxa de falso positivo (False Positive Rate), que é dado por false positives / (false positives + true negatives). 
+A taxa de falsos positivos também é conhecida como probabilidade de alarme falso ( fall-out or probability of false alarm) e pode ser calculada como (1 — Specificity). 
+A Specificity (especificidade) também é conhecida como true negative rate. Por exemplo, quantas pessoas sem uma doença (true negative) foi classificadas como sadias.
+
+Assim, para simplificar a curva ROC, foi criada a AUC. A AUC resume a curva ROC num único valor, calculando a “área sob a curva”.
+
+Um modelo excelente tem AUC próximo ao 1, o que significa que tem boa medida de separabilidade. 
+Um modelo pobre tem AUC próximo do 0, o que significa que tem a pior medida de separabilidade, ou seja, está prevendo 0s como 1s e 1s como 0s. 
+E quando a AUC é 0,5, significa que o modelo não tem capacidade de separação de classe.

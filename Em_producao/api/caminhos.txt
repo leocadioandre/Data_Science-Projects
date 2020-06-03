@@ -1,0 +1,49 @@
+(base) C:\Users\Andre>cd /d E:\Datazero\MachineLearning\Em_producao\api
+
+(base) E:\Datazero\MachineLearning\Em_producao\api>dir
+ O volume na unidade E é LEOCADIO
+ O Número de Série do Volume é 42B9-CE65
+
+ Pasta de E:\Datazero\MachineLearning\Em_producao\api
+
+17/04/2020  15:55    <DIR>          .
+17/04/2020  15:55    <DIR>          ..
+02/05/2019  14:35    <DIR>          model
+02/05/2019  14:35    <DIR>          static
+02/05/2019  14:35    <DIR>          templates
+02/05/2019  14:35    <DIR>          __pycache__
+23/04/2020  16:42    <DIR>          .vs
+23/04/2020  17:28             1.493 srv.py
+               1 arquivo(s)          1.493 bytes
+               7 pasta(s)    8.197.652.480 bytes disponíveis
+
+(base) E:\Datazero\MachineLearning\Em_producao\api>python srv.py
+
+#Utilizando Streamlit
+
+(base) C:\Users\Andre>cd /d D:\Desktop\CursoCientistadeDados\Semana\aula03
+
+(base) D:\Desktop\CursoCientistadeDados\Semana\aula03>streamlit run app.py
+
+  👋 Welcome to Streamlit!
+
+  If you are one of our development partners or are interested in
+  getting personal technical support, please enter your email address
+  below. Otherwise, you may leave the field blank.
+
+  Email:
+
+  Telemetry: As an open source project, we collect usage statistics.
+  We cannot see and do not store information contained in Streamlit apps.
+
+  If you'd like to opt out, add the following to ~/.streamlit/config.toml,
+  creating that file if necessary:
+
+    [browser]
+    gatherUsageStats = false
+
+
+  You can now view your Streamlit app in your browser.
+
+  Local URL: http://localhost:8501
+  Network URL: http://192.168.0.12:8501
