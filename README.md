@@ -47,7 +47,7 @@ Nos links abaixo contem dos meus projetos em uma ordem empirica.
 
 * Banco de Dados:
 
- * Utilizando a biblioteca sqlalchemy, para manipulação de queries SQL: https://bit.ly/3htKE3T 
+  * Utilizando a biblioteca sqlalchemy, para manipulação de queries SQL: https://bit.ly/3htKE3T 
 
 
 
