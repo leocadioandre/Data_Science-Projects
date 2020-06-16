@@ -14,7 +14,7 @@ Este Portfólio tem como objetivo:
 - Utilizar Machine Learning por meio das principais bibliotecas em Python: Scikit-Learning, Numpy e Pandas. E das bibliotecas de vizualização Seaborn e Matplotlib. 
 - Projetos com a utilização de machine Learning da coleta de dados até o Deploy.
 
-**Background in:** Python | MySQL | Machine Learning | |Econometria | PowerBi .
+**Background in:** Python | MySQL | Machine Learning | Econometria | PowerBi .
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/andr%C3%A9-leoc%C3%A1dio-80824115b/)
@@ -45,7 +45,9 @@ Nos links abaixo contem dos meus projetos em uma ordem empirica.
   * Plotly: https://bit.ly/3dvzJnR
   * Montando um simples Dashboard em Python: https://bit.ly/2U6XsDk
 
+* Banco de Dados:
 
+ * Utilizando a biblioteca sqlalchemy, para manipulação de queries SQL: 
 
 
 
