@@ -57,6 +57,10 @@ Nos links abaixo contem alguns dos meus projetos em uma ordem empírica de utili
   * Coleta de dados demográficos e econômicos no Wikipédia: https://bit.ly/34QVWLA
   * Web scraping e limpeza de dados, de carros a venda na OLX no estado do Paraná: https://bit.ly/3bcltA0
 
+* API:
+
+  * Utilizando o API da Alpha Vantage e Yahoo Finance para análise de ações: https://bit.ly/2EGrSre
+
 * Visualização de Dados:
 
   * Materiais para visualização em Python: https://bit.ly/2Xu8NiD
