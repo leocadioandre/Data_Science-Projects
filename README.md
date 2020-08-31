@@ -9,12 +9,12 @@
 
 Este Portfólio tem como objetivo:
 
-- Demonstrar habilidades na área da Ciencias de Dados, buscando resolver problemas e encontrar insights nos dados. Exercer tarefas de coletas de dados estruturados, não -estruturados, supervisionados e não-supervisionados. 
-- Realizar análise exploratória dos dados por meio da mineração, manipulação e preparação dos dados, análise descritiva e estatistica.
-- Utilizar Machine Learning por meio das principais bibliotecas em Python: Scikit-Learning, Numpy e Pandas. E das bibliotecas de vizualização Seaborn e Matplotlib. 
-- Projetos com a utilização de machine Learning da coleta de dados até o Deploy.
+- Demonstrar minhas habilidades adquiridas na área da Ciências de Dados, buscando resolver problemas e encontrar insights nos dados de um modo prático. Exercer tarefas de coletas de dados estruturados, não-estruturados e realizar predições com utilização de dados supervisionados e não-supervisionados. 
+- Mostrar como é feita a análise exploratória e o pré-processamento dos dados por meio da mineração, manipulação e preparação ddas bases, com o auxílio da análise descritiva e estatística. Por meio das bibliotecas em Python com esse escopo.
+- Coleta de Dados utilizando APIs e Web-Scrapping, facilitando assim a sua utilização das mais diversas features em modelos de Machine Learning. E a manipulação de bases de dados por meio da linguagem SQL.
+- Utilizar algoritmos de Machine Learning com a utilização das principais bibliotecas em Python: Scikit-Learning e Keras. E mostrar tecnicas utilizadas para a realização de Tunning de modelos e Deploy do mesmo com a utilização de web-apps.
 
-**Background in:** Python | SQL | Machine Learning | Econometria | PowerBi | Ambiente OLAP .
+**Background in:** Python | SQL | Machine Learning | Econometria | Power BI.
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/andr%C3%A9-leoc%C3%A1dio-80824115b/)
