@@ -18,7 +18,7 @@ Este Portfólio tem como objetivo:
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/andr%C3%A9-leoc%C3%A1dio-80824115b/)
-
+* [Lattes](http://lattes.cnpq.br/1814826624249012)
 
 ## Projetos:
 Nos links abaixo contem alguns dos meus projetos em uma ordem empírica de utilização de habilidades, todos realizados com a linguagem de programação Python.
