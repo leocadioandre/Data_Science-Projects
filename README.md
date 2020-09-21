@@ -21,7 +21,7 @@ Este Portfólio tem como objetivo:
 * [Lattes](http://lattes.cnpq.br/1814826624249012)
 
 ## Projetos:
-Nos links abaixo contem alguns dos meus projetos em uma ordem empírica de utilização de habilidades, todos realizados com a linguagem de programação Python.
+Nos links abaixo contém alguns dos meus projetos em uma ordem empírica de utilização de habilidades, todos realizados com a linguagem de programação Python.
 
 * Análise Exploratória e Pré-processamento:
 
