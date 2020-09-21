@@ -40,7 +40,7 @@ Nos links abaixo contém alguns dos meus projetos em uma ordem empírica de util
   * Utilizando a técnica de Stacking: https://bit.ly/2Y1sayR
   * Utilizando Pipelines para automatização: https://bit.ly/2UaIjAS
   * Validando modelos por meio da curva AUC: https://bit.ly/304BBQz
-  * Fazendo deploy de um modelo de machine learning: https://bit.ly/3dwrpEf
+  * Webapp para classificação de empréstimos, utilizando machine learning: https://bit.ly/3iRVUXQ
   * Utilizando a técnica de Reg Linear Gradiente descendente: https://bit.ly/3hLZKBx
 
 * Séries Temporais:
